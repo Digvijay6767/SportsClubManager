@@ -1,4 +1,4 @@
-Name: Rohit Sharma
+Name: Rohit Sharma - Senior Player
 Sport: Cricket
 Position: Batsman
 
