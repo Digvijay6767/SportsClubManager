@@ -1,0 +1,7 @@
+Name: Rohit Sharma
+Sport: Cricket
+Position: Batsman
+
+Name: Sunil Chhetri
+Sport: Football
+Position: Forward
