@@ -1,0 +1,4 @@
+Player Selection Process:
+1. Players register for tryouts.
+2. Coaches evaluate player performance.
+3. Best players are selected for the team.
