@@ -10,3 +10,4 @@ Position: Batsman
 Name: Sunil Chhetri
 Sport: Football
 Position: Forward
+Status: Active
